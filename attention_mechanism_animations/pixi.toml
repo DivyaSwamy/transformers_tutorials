@@ -1,0 +1,24 @@
+[workspace]
+authors = ["Tony Reina <tbreina@bu.edu>", "Divya Swaminathan <sdivya.swaminathan@gmail.com>"]
+channels = ["conda-forge"]
+name = "attention_animation"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "*"
+numpy = "*"
+matplotlib = "*"
+jupyter = "*"
+pytorch-cpu = "*"
+transformers = ">=4"
+scikit-learn = "*"
+plotly = ">=6.3.1,<7"
+seaborn = ">=0.13.2,<0.14"
+pandas = ">=2.3.3,<3"
+pillow = "*"
+
+[pypi-dependencies]
+kaleido = ">=1.1.0, <2"
