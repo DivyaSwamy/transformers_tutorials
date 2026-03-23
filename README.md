@@ -1,7 +1,5 @@
 # transformers_tutorials
-> Repository contains notebook based  tutorials highlighting how transformers can be used for computer vision tasks. 
-
-#### Navigate the repository and work through the notebooks to understand use of the transformers library.
+> Repository contains notebook based  tutorials highlighting how transformers can be used for computer vision tasks. Navigate the repository and work through the notebooks to understand use of the transformers library.
 
 1) ***transformers_computervision_101.ipynb*** - takes you through basics of setting up transformer pipelines for computer vision tasks.
 
